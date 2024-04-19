@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.surf.flutter_template",
+    "sha256_cert_fingerprints":
+    ["18:F2:FF:1A:95:57:02:3F:8C:F0:28:73:85:21:95:A3:62:31:4E:0E:02:F7:3C:3D:B5:A9:CC:E0:5C:85:98:FA"]
+  }
+}]
